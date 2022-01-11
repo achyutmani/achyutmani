@@ -1,5 +1,4 @@
-### Hi there 👋, I am Achyut Mani Tripathi. I obtained my Ph.D. from the department of compuster science & egineering at Indian Institute of Technology Guwahati(IIT-Guwahati), Assam, India. 
-My areas of research include deep learning for environmental sound classification and anomaly detection.  
+### Hi there 👋, I am Achyut Mani Tripathi. I obtained my Ph.D. from the department of compuster science & egineering at Indian Institute of Technology Guwahati(IIT-Guwahati), Assam, India. My areas of research include Deep Learning for Environmental Sound Classification(ESC) and Anomaly Detection.  
 
 <!--
 **achyutmani/achyutmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
