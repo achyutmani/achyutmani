@@ -1,4 +1,4 @@
-Hi there 👋, Hi, I Am Achyut Mani Tripathi. I Obtained My Ph.D.(2021) from The Department of Computer Science & Engineering at Indian Institute of Technology Guwahati (IIT-Guwahati), Assam, India.
+Hi there 👋, I Am Achyut Mani Tripathi. I Obtained My Ph.D.(2021) from The Department of Computer Science & Engineering at Indian Institute of Technology Guwahati (IIT-Guwahati), Assam, India.
 My Research Interests Include:
 Deep Learning for Environmental Sound Classification, Adversarial Attacks on Deep Models, Knowledge Distillation for Deep Learning and Anomaly Detection in Time Series. 
 
