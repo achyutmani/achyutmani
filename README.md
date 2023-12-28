@@ -1,6 +1,7 @@
-Hi there 👋, I Am Achyut Mani Tripathi. I Obtained My Ph.D.(2021) from The Department of Computer Science & Engineering at Indian Institute of Technology Guwahati (IIT-Guwahati), Assam, India.
+
+नमस्कार! I am Achyut Mani Tripathi (अच्युत मणि त्रिपाठी), currently an Assistant Professor in the Computer Science & Engineering Department at Indian Institute of Technology Dharwad (IIT-Dh) in Karnataka, India. I completed my Ph.D. in 2021 from the Computer Science & Engineering Department at Indian Institute of Technology Guwahati (IIT-Guwahati) in Assam, India.
 My Research Interests Include:
-Deep Learning for Environmental Sound Classification, Adversarial Attacks on Deep Models, Knowledge Distillation for Deep Learning and Anomaly Detection in Time Series. 
+Deep Learning for Environmental Sound Classification, Adversarial Attacks, Knowledge Distillation, Multimodal Learning, Audio-Visual Scene Classification (AVSC), Audio-Visual Question Answering, Continual Learning and Predictive Maintenance.
 
 <!--
 **achyutmani/achyutmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
